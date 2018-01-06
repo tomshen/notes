@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Reality has a surprising amount of detail"
-date:   2018-01-05 19:11:00 -0500
+title: "Reality has a surprising amount of detail"
+date: 2018-01-05 19:11:00 -0500
 ---
 
 John Salvatier in ["Reality has a surprising amount of detail"](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail):
