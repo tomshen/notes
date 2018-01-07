@@ -14,13 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Notes
-email: tomshen
+email: tom@shen.io
 description: >-
   Notes on and highlights from things I've been reading.
 baseurl: "/notes"
 url: "http://www.tomzshen.com"
-twitter_username: tomshen
-github_username: tomshen
 
 # Build settings
 markdown: kramdown
