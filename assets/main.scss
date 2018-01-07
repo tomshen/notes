@@ -1,0 +1,11 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+blockquote {
+    font-size: inherit;
+    font-style: inherit;
+    letter-spacing: inherit;
+}
